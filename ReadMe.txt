@@ -1,0 +1,1 @@
+Oto plik z opisem naszego projektu
